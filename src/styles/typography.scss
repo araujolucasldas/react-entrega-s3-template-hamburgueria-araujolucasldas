@@ -1,0 +1,57 @@
+.item__title{
+    color: var(--color-gray-600);
+    font-size: var(--font-size-3);
+    font-weight: var(--font-weight-3);
+}
+
+.item__type{
+    color: var(--color-gray-300);
+    font-size: var(--font-size-5);
+    font-weight: var(--font-weight-1);
+}
+
+.item__price{
+    color: var(--color-primary);
+    font-size: var(--font-size-5);
+    font-weight: var(--font-weight-2);
+}
+
+.item__button{
+    color: #fff;
+    font-weight: var(--font-weight-2);
+}
+
+.modal__title{
+    color: #fff;
+    font-size: var(--font-size-3);
+    font-weight: var(--font-weight-3);
+}
+
+.itemModal__title{
+    color: var(--color-gray-600);
+    font-size: var(--font-size-3);
+    font-weight: var(--font-weight-3);
+}
+
+.itemModal__price{
+    color: var(--color-primary);
+    font-size: var(--font-size-5);
+    font-weight: var(--font-weight-2);
+}
+
+.modal__priceText{
+    color: var(--color-gray-600);
+    font-size: var(--font-size-5);
+    font-weight: var(--font-weight-2);
+}
+
+.modal__cartValue{
+    color: var(--color-gray-300);
+    font-size: var(--font-size-5);
+    font-weight: var(--font-weight-2);
+}
+
+.modal__button{
+    color: #fff;
+    font-weight: var(--font-weight-2);
+}

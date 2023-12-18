@@ -1,0 +1,28 @@
+.item__button{
+    border: none;
+    border-radius: var(--radius-2);
+    background-color: var(--color-gray-300);
+    padding: 0.6rem 1.3rem;
+    align-self: flex-start;
+
+    &:hover{
+        background-color: var(--color-primary);
+    }
+}
+
+.modalRemove__button{
+    border: none;
+    background-color: transparent;
+}
+
+.modal__button{
+    border: none;
+    border-radius: var(--radius-2);
+    background-color: var(--color-gray-300);
+    color: var(--color-white);
+    padding: 1rem 1.3rem;
+
+    &:hover{
+        background-color: var(--color-primary);
+    }
+}
