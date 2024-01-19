@@ -26,13 +26,9 @@
 
 body{
     font-family: var(--font-family);
+    overflow: hidden;
 }
 
-/*.header__container{
-    width: 100%;
-    background-color: var(--color-gray-000);
-    margin-bottom: 1rem;
-}*/
 .main__container{
     width: 80%;
     margin-left: auto; 
